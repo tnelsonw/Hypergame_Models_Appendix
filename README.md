@@ -1,6 +1,6 @@
 # Hypergame Models for Cyber Defense in a Purple Team Setting Appendix
 
-This repository is the appendix for the paper titled "Hypergame Models for Cyber Defense in a Purple Team Setting" by Whitney et al. 
+This repository is the appendix for the paper titled "Hypergame Models for Cyber Defense in a Purple Team Setting" by Whitney et al. Click on each photo below to see it full size.
 
 ## Figure A1
 
